@@ -1,0 +1,6 @@
+applications:
+ name: Global-Tracker
+path: target/global-tracker-api-0.0.1-SNAPSHOT.jar
+domain: cfapps.io
+memory: 950M
+instances: 1 
